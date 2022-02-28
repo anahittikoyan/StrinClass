@@ -1,4 +1,4 @@
-﻿#include <iostream>
+
 #include "Header.h"
 string::string() {
 	s = 1;
